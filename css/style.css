@@ -168,8 +168,9 @@ button.btn-light:hover {
 
 button.animation:hover {
     scale: 1.05;
-    box-shadow: 0 0 5px 2px #706f6f;
 }
+
+
 
 
 @media only screen and (min-width: 1024px) {
